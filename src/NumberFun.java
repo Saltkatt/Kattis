@@ -57,7 +57,7 @@ import java.lang.Math.*;
         token = null;
         return ans;
     }
-}*/
+}*//*
 public class NumberFun {
 
     public static void main (String[] args) {
@@ -169,3 +169,4 @@ public class NumberFun {
 
 
 }
+*/

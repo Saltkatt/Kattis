@@ -61,6 +61,7 @@ class Kattio extends PrintWriter {
     }
 }
 */
+/*
 
 public class ColdputerScience {
 
@@ -101,3 +102,4 @@ public class ColdputerScience {
     }
 
 }
+*/

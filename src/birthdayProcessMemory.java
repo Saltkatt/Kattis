@@ -1,3 +1,4 @@
+/*
 import java.util.*;
 import java.util.function.Function;
 import java.util.regex.Pattern;
@@ -24,11 +25,13 @@ public class birthdayProcessMemory {
 
     }
 
-    /**
+    */
+/**
      * Loop number of times specified by numberOfFriends
      * Scan for user input x number of times
      * add input to friendList
-     */
+     *//*
+
     public static List<String> populateListOfStrings(int numberOfFriends ){
         List<String> friendList = new ArrayList<>();
         for(int i = 0; i < numberOfFriends + 1; i++){
@@ -38,12 +41,14 @@ public class birthdayProcessMemory {
         return friendList;
     }
 
-    /**
+    */
+/**
      * Loop through friendList and split the lines by whitespace and into an array.
      * initialise variables name, date and rate with arr[i].
      * populate birthday with name, date and rate.
      * add to birthdayList.
-     */
+     *//*
+
     public static List<Birthday[]> splitLinesOfListAndPopulateNewArray(List<String> friendList){
 
         List<Birthday[]> birthdayList = new ArrayList<>();
@@ -73,3 +78,4 @@ public class birthdayProcessMemory {
 
    }
 }
+*/
